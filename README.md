@@ -3,4 +3,4 @@
 ![](./parsing-csv.jpg "parsing-csv")
 
 
-#### [Перейти в начало](https://github.com/tsvetkovpro/sources#server)
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources)
